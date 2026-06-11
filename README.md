@@ -2,9 +2,9 @@
 
 <!-- Widgets row (left-aligned, equal height) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VVeb1250&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="140" style="margin-right:8px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVeb1250&layout=compact&theme=tokyonight" alt="Top Languages" height="140" style="margin-right:8px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VVeb1250&theme=tokyonight" alt="GitHub Streak" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VVeb1250&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="120" style="margin-right:8px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVeb1250&layout=compact&theme=tokyonight" alt="Top Languages" height="120" style="margin-right:8px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VVeb1250&theme=tokyonight" alt="GitHub Streak" height="120" />
 </div>
 
 ---
