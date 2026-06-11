@@ -1,43 +1,34 @@
-# สวัสดีครับ ผม VVeb1250 👋
+# Hi, I'm VVeb1250 👋
 
-<!-- Widgets บนสุด -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VVeb1250&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VVeb1250&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VVeb1250&theme=tokyonight)
-
----
-
-สวัสดี! ผมเป็นนักศึกษา ที่สนใจด้านระบบระดับล่าง, การเขียนสคริปต์ และโปรเจ็กต์ทดลองต่างๆ ผลงานของผมส่วนใหญ่เป็นโปรเจ็กต์ขนาดเล็กถึงกลางที่เน้นการแก้ปัญหาเฉพาะทางและเรียนรู้เทคโนโลยีใหม่ๆ
-
-## ทักษะ (Skills)
-- ภาษาโปรแกรม: Python, JavaScript, Java
-- งานที่ถนัด: automation, scripting, prototyping, assembly/low-level helper tools
-- เครื่องมือ: Git, GitHub
-
-## โปรเจ็กต์เด่น (Featured Projects)
-- **assembly-yasm-helper** — JavaScript  
-  เครื่องมือช่วยสำหรับงานที่เกี่ยวกับ assembly/YASM (รายละเอียดเพิ่มเติมดู repo)  
-  https://github.com/VVeb1250/assembly-yasm-helper
-
-- **port-a-whip** — Python  
-  โปรเจ็กต์ล่าสุดที่กำลังพัฒนา (อัปเดตล่าสุด 2026-06-11) — สำหรับงาน automation/utility  
-  https://github.com/VVeb1250/port-a-whip
-
-- **WhipForAWeeb-skills** — Python  
-  ชุดทักษะ/สกิลที่พัฒนาเพื่อใช้งานบางฟังก์ชัน (อาจเป็นบอทหรือ skill set)  
-  https://github.com/VVeb1250/WhipForAWeeb-skills
-
-- **work-lab** — Java (งานในคลาส)  
-  โปรเจ็กต์ที่ทำในชั้นเรียนเพื่อเรียนรู้/ฝึกปฏิบัติเกี่ยวกับ Java และแนวคิดที่เกี่ยวข้อง  
-  https://github.com/VVeb1250/work-lab
-
-## สิ่งที่กำลังทำอยู่ (Current Work)
-- พัฒนา/ปรับปรุงโปรเจ็กต์ใน `port-a-whip`
-- ทดลองทำเครื่องมือช่วยงาน assembly ใน `assembly-yasm-helper`
+<!-- Widgets row (left-aligned, equal height) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VVeb1250&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="140" style="margin-right:8px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVeb1250&layout=compact&theme=tokyonight" alt="Top Languages" height="140" style="margin-right:8px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VVeb1250&theme=tokyonight" alt="GitHub Streak" height="140" />
+</div>
 
 ---
 
-(ถ้าต้องการปรับธีมของ widget, เพิ่ม/ลบ widget, หรือแก้ข้อความใด ๆ บอกผมมาได้เลยครับ)
+Hello! I'm a student interested in low-level systems, scripting, and experimental projects. Most of my work consists of small-to-medium sized projects that focus on solving specific problems and learning new technologies.
+
+## Skills
+- Languages: Python, JavaScript, Java
+- Focus: automation, scripting, prototyping, assembly / low-level helper tools
+- Tools: Git, GitHub
+
+## Featured Projects
+- **[assembly-yasm-helper](https://github.com/VVeb1250/assembly-yasm-helper)** — JavaScript  
+  A helper tool related to assembly/YASM.  
+
+- **[port-a-whip](https://github.com/VVeb1250/port-a-whip)** — Python  
+  My most recent project in active development (last updated 2026-06-11) — utilities / automation.  
+
+- **[WhipForAWeeb-skills](https://github.com/VVeb1250/WhipForAWeeb-skills)** — Python  
+  A collection of skills/utilities (possibly a bot or skill set).  
+
+- **[work-lab](https://github.com/VVeb1250/work-lab)** — Java (class project)  
+  A course project used to learn and practice Java and related concepts.  
+
+## Current Work
+- Improving `port-a-whip`
+- Building assembly helper tools in `assembly-yasm-helper`
