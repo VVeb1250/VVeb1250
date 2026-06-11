@@ -14,20 +14,7 @@ Hello! I'm a student interested in low-level systems, scripting, and experimenta
 ## Skills
 - Languages: Python, JavaScript, Java
 - Focus: automation, scripting, prototyping, assembly / low-level helper tools
-- Tools: Git, GitHub
-
-## Featured Projects
-- **[assembly-yasm-helper](https://github.com/VVeb1250/assembly-yasm-helper)** — JavaScript  
-  A helper tool related to assembly/YASM.  
-
-- **[port-a-whip](https://github.com/VVeb1250/port-a-whip)** — Python  
-  My most recent project in active development (last updated 2026-06-11) — utilities / automation.  
-
-- **[WhipForAWeeb-skills](https://github.com/VVeb1250/WhipForAWeeb-skills)** — Python  
-  A collection of skills/utilities (possibly a bot or skill set).  
-
-- **[work-lab](https://github.com/VVeb1250/work-lab)** — Java (class project)  
-  A course project used to learn and practice Java and related concepts.  
+- Tools: Git, GitHub 
 
 ## Current Work
 - Improving `port-a-whip`
