@@ -16,8 +16,11 @@
 ## GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VVeb1250&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="VVeb1250's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVeb1250&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most-used languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VVeb1250&theme=github_dark" alt="GitHub statistics" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VVeb1250&theme=github_dark" alt="Most committed languages" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VVeb1250&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 ## What I work with
