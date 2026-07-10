@@ -1,21 +1,38 @@
 # Hi, I'm VVeb1250 👋
 
-<!-- Widgets row (left-aligned, equal height) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VVeb1250&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="120" style="margin-right:8px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVeb1250&layout=compact&theme=tokyonight" alt="Top Languages" height="120" style="margin-right:8px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VVeb1250&theme=tokyonight" alt="GitHub Streak" height="120" />
-</div>
+<p align="center">
+  <a href="https://github.com/VVeb1250?tab=followers">
+    <img src="https://img.shields.io/github/followers/VVeb1250?label=Followers&style=for-the-badge&color=58A6FF&labelColor=161B22" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/VVeb1250?tab=repositories">
+    <img src="https://img.shields.io/badge/View-Projects-238636?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub projects" />
+  </a>
+</p>
+
+<p align="center">
+  Student developer exploring low-level systems, scripting, automation, and experimental projects.
+</p>
+
+## GitHub at a glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VVeb1250&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="VVeb1250's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVeb1250&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most-used languages" height="165" />
+</p>
+
+## What I work with
+
+- **Languages:** Python, JavaScript, Java
+- **Focus:** automation, scripting, prototyping, and assembly / low-level helper tools
+- **Tools:** Git and GitHub
+
+## Current work
+
+- Improving [port-a-whip](https://github.com/VVeb1250/port-a-whip)
+- Building tools around [assembly-yasm-helper](https://github.com/VVeb1250/assembly-yasm-helper)
 
 ---
 
-Hello! I'm a student interested in low-level systems, scripting, and experimental projects. Most of my work consists of small-to-medium sized projects that focus on solving specific problems and learning new technologies.
-
-## Skills
-- Languages: Python, JavaScript, Java
-- Focus: automation, scripting, prototyping, assembly / low-level helper tools
-- Tools: Git, GitHub 
-
-## Current Work
-- Improving `port-a-whip`
-- Building assembly helper tools in `assembly-yasm-helper`
+<p align="center">
+  <i>Always learning by building.</i>
+</p>
