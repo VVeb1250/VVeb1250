@@ -1,6 +1,7 @@
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/banner-dark-narrow.png">
+  <source media="(max-width: 640px)" srcset="assets/banner-light-narrow.png">
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
   <img src="assets/banner-light.png" alt="WhipForAWeeb. Computer Engineering, Khon Kaen University, expected 2028." width="100%">
 </picture>
 
