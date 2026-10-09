@@ -11,16 +11,22 @@ I build and test the support around AI coding tools: memory, skills and checks f
 ---
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="https://profile-widgets-sigma.vercel.app/api/activity?theme=dark&size=narrow">
+  <source media="(max-width: 640px)" srcset="https://profile-widgets-sigma.vercel.app/api/activity?theme=light&size=narrow">
   <source media="(prefers-color-scheme: dark)" srcset="https://profile-widgets-sigma.vercel.app/api/activity?theme=dark">
   <img src="https://profile-widgets-sigma.vercel.app/api/activity?theme=light" alt="Contributions in the last 12 months, per week" width="100%">
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="https://profile-widgets-sigma.vercel.app/api/repos?theme=dark&size=narrow">
+  <source media="(max-width: 640px)" srcset="https://profile-widgets-sigma.vercel.app/api/repos?theme=light&size=narrow">
   <source media="(prefers-color-scheme: dark)" srcset="https://profile-widgets-sigma.vercel.app/api/repos?theme=dark">
   <img src="https://profile-widgets-sigma.vercel.app/api/repos?theme=light" alt="Repos worth opening: WhipUI, z80-workspace, assembly-yasm-helper" width="100%">
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="https://profile-widgets-sigma.vercel.app/api/languages?theme=dark&size=narrow">
+  <source media="(max-width: 640px)" srcset="https://profile-widgets-sigma.vercel.app/api/languages?theme=light&size=narrow">
   <source media="(prefers-color-scheme: dark)" srcset="https://profile-widgets-sigma.vercel.app/api/languages?theme=dark">
   <img src="https://profile-widgets-sigma.vercel.app/api/languages?theme=light" alt="Languages across public repos" width="100%">
 </picture>
