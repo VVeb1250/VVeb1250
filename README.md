@@ -1,6 +1,8 @@
-# Teethawat “Web” Kumying
-
-`COMPUTER ENGINEERING · KHON KAEN UNIVERSITY · EXPECTED 2028`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img src="assets/banner-light.png" alt="VVeb1250. Computer Engineering, Khon Kaen University, expected 2028." width="100%">
+</picture>
 
 I build and test the support around AI coding tools: memory, skills and checks for when they get things wrong or forget.
 
