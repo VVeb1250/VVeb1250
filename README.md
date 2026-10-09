@@ -11,18 +11,18 @@ I build and test the support around AI coding tools: memory, skills and checks f
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/activity-dark.svg">
-  <img src="assets/cards/activity-light.svg" alt="Contributions in the last 12 months, per week" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://profile-widgets-sigma.vercel.app/api/activity?theme=dark">
+  <img src="https://profile-widgets-sigma.vercel.app/api/activity?theme=light" alt="Contributions in the last 12 months, per week" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/repos-dark.svg">
-  <img src="assets/cards/repos-light.svg" alt="Repos worth opening: WhipUI, z80-workspace, assembly-yasm-helper" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://profile-widgets-sigma.vercel.app/api/repos?theme=dark">
+  <img src="https://profile-widgets-sigma.vercel.app/api/repos?theme=light" alt="Repos worth opening: WhipUI, z80-workspace, assembly-yasm-helper" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cards/languages-dark.svg">
-  <img src="assets/cards/languages-light.svg" alt="Languages across public repos" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://profile-widgets-sigma.vercel.app/api/languages?theme=dark">
+  <img src="https://profile-widgets-sigma.vercel.app/api/languages?theme=light" alt="Languages across public repos" width="100%">
 </picture>
 
 ---
